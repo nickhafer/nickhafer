@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickhafer
 - 👀 I’m interested in Software Engineering and Product Management.
 - 🌱 I’m currently learning Human Computer Interaction.
-- 📫 How to reach me: <first initial> + <last name> + "@stanford.edu"
+- 📫 How to reach me: first initial + last name + "@stanford.edu"
 <!--
 **nickhafer/nickhafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
