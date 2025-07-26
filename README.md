@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nickhafer
 - 👀 I’m interested in Software Engineering and Product Management.
-- 🌱 I’m currently learning Human Computer Interaction.
-- 📫 How to reach me: first initial + last name + "@stanford.edu"
+- 🌱 I’m currently a SWE intern @ Element Biosciences. 
+- 🔭 At Element, I'm working on the cloud team to integrate SalesForce and Auth0 using Go. I'm also creating a internal developer tools web app in React.
+- - 📫 How to reach me: first name + last name + "01@gmail.com"
 <!--
 **nickhafer/nickhafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
